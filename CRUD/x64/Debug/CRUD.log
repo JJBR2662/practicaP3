@@ -1,0 +1,4 @@
+﻿  CRUD.cpp
+D:\Progra 3\tarea 4\CRUD\CRUD.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Progra 3\tarea 4\CRUD\CRUD.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CRUD.vcxproj -> D:\Progra 3\tarea 4\CRUD\x64\Debug\CRUD.exe
