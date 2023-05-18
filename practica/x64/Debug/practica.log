@@ -1,0 +1,5 @@
+﻿  practica.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: main already defined in practica.obj
+D:\Progra 3\tarea 4\practica\x64\Debug\practica.exe : fatal error LNK1169: one or more multiply defined symbols found
